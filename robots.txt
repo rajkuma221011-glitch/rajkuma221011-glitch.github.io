@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rajkuma221011-glitch.github.io/sitemap.xml
